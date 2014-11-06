@@ -26,7 +26,7 @@ int main()
 
 
     //welcome message takoj ko se igra zazene
-    cout << "*******************\n Krizec Krozec \n*******************\n";
+    cout << "*******************\n Tic Tac Toe \n*******************\n";
 
     //uprasamo za player 1
     cout << "Player 1: " << endl;
